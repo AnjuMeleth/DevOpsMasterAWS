@@ -1,0 +1,4 @@
+Description: >
+        Anju M Dominic /Create an Ec2 instance
+Resources:
+  Type: AWS::EC2::Instance
