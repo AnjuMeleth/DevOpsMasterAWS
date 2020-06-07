@@ -1,9 +1,5 @@
 Description: >
-  Anju M Dominic 
-Parameters:
-  EnvironmentName:
-    Description: An environment name prfixed to resources
-    Type: String
+  Anju M Dominic / petclinic application 
 
 Resources:
   SecGroup:
