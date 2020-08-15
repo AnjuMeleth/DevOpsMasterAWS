@@ -1,2 +1,2 @@
-aws configure
-cat ~/.aws/credentials
+Step 1: aws configure
+Step 2: cat ~/.aws/credentials
