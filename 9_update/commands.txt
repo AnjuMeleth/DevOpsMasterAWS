@@ -1,0 +1,2 @@
+vi ec2.yml
+aws cloudformation update-stack --stack-name ourfourthinfra --template-body file://ec2.yml

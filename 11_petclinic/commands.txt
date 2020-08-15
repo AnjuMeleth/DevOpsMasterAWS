@@ -1,0 +1,3 @@
+aws cloudformation create-stack --stack-name ourfifthinfra --template-body file://petclinic.yml
+aws cloudformation delete-stack --stack-name ourfifthinfra
+
