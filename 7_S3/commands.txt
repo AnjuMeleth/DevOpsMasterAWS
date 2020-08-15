@@ -1,4 +1,4 @@
-git clone https://github.com/AnjuMeleth/DevOpsMasterAWS.git
-cd DevOpsMasterAWS/
-vi s3.yml
-aws cloudformation create-stack --stack-name ourthirdinfra --template-body file://s3.yml
+Step 1: git clone https://github.com/AnjuMeleth/DevOpsMasterAWS.git
+        cd DevOpsMasterAWS/7_S3
+        vi s3.yml
+Step 2: aws cloudformation create-stack --stack-name ourthirdinfra --template-body file://s3.yml
